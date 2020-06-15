@@ -1,0 +1,1 @@
+alert("This is alert that Josh is coding his dream");  // display string message
